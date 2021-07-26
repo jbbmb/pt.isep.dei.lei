@@ -1,0 +1,26 @@
+-FAIRCENTER
+Test Center
+Fake Address, 123 Porto
+-ESE
+Employee
+ese@ems.com
+-EventManager
+Manager
+manager@ems.com
+-Organizer
+Organizer
+organizer@ems.com
+-Representative
+Representative
+representative@ems.com
+-Event
+Test Event
+No event description available!
+1
+1
+2018
+31
+12
+2018
+LOW
+4

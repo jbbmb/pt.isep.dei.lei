@@ -1,0 +1,20 @@
+﻿155034987; José Miguel Ferreira Sampaio          ; 11/02/1989;   masculino 
+    
+153456666; José Costa Rodrigues Neto; 20/12/1980; masculino
+
+443543678;Ana Rita Gomes Costa ; 31/01/1999; feminino
+   
+
+
+111333555; Joana Silva Aguiar; 12/03/1978;       feminino
+
+                      
+
+372617273; António de Oliveira Salazar; 25/04/1974; masculino
+
+333444555; Salomé Castro;  27/12/1997; feminino
+    
+
+
+
+222555767; Maria do Carmo; 08/09/1960; feminino
